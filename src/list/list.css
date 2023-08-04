@@ -1,0 +1,13 @@
+
+.list{
+    background: #ae5f75;
+    border-radius: 5px;
+    
+}
+.list p{
+    width: 100%;
+    padding-left: 20px;
+    
+    font-weight: bold;
+}
+
